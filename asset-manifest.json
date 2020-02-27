@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-NavMenu/static/css/main.63fc5db5.chunk.css",
+    "main.js": "/React-NavMenu/static/js/main.574d2f9e.chunk.js",
+    "main.js.map": "/React-NavMenu/static/js/main.574d2f9e.chunk.js.map",
+    "runtime-main.js": "/React-NavMenu/static/js/runtime-main.e02f2912.js",
+    "runtime-main.js.map": "/React-NavMenu/static/js/runtime-main.e02f2912.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/React-NavMenu/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.531787a5.chunk.js": "/React-NavMenu/static/js/2.531787a5.chunk.js",
+    "static/js/2.531787a5.chunk.js.map": "/React-NavMenu/static/js/2.531787a5.chunk.js.map",
+    "index.html": "/React-NavMenu/index.html",
+    "precache-manifest.b1f458e81de4a7c60a9224b69425b048.js": "/React-NavMenu/precache-manifest.b1f458e81de4a7c60a9224b69425b048.js",
+    "service-worker.js": "/React-NavMenu/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/React-NavMenu/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.63fc5db5.chunk.css.map": "/React-NavMenu/static/css/main.63fc5db5.chunk.css.map",
+    "static/js/2.531787a5.chunk.js.LICENSE.txt": "/React-NavMenu/static/js/2.531787a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e02f2912.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.531787a5.chunk.js",
+    "static/css/main.63fc5db5.chunk.css",
+    "static/js/main.574d2f9e.chunk.js"
+  ]
+}
